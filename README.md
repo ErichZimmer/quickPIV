@@ -73,16 +73,12 @@ IJulia.notebook()
 4-. A tab will open in your default web browser. Make your way in the jupyter tree to the quickPIV folder that was downloaded in step 1. The "EvaluationNotebooks"  folder contains the Julia evaluation notebook, python performance evaluation notebook and .cpp performance script.
 
 ### To-do list
-- [ ] Ensemble correlation
+- [x] Ensemble correlation capable
 
 - [ ] Repeated correlation
 
 - [ ] 9 point gaussian subpixel estimator
 
-- [ ] First and second order window deformation
-
-- [ ] Spline and linear window deformation
-
-- [ ] Multi-pass with FFT first pass and direct on other passes
-
 - [ ] Perform demanding tasks in parallel
+
+- [ ] Python wrapper for qualitative analysis of algorithms
